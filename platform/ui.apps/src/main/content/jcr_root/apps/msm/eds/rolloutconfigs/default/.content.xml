@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0"
-    cq:trigger="rollout"
-    jcr:description="Custom EDS rollout configuration with XF references update"
-    jcr:primaryType="cq:RolloutConfig"
-    jcr:title="EDS Custom rollout config">
-    <referencesUpdateXFEmbeddedCustom jcr:primaryType="cq:LiveSyncAction"/>
-</jcr:root>
