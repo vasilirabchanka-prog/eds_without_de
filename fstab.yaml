@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p215002-e2234954.adobeaemcloud.com/bin/franklin.delivery/vasilirabchanka-prog/eds_without_de/main"
+    url: "https://author-p215002-e2234954.adobeaemcloud.com/bin/franklin.delivery/vasilirabchanka-prog/eds/main"
     type: "markup"
     suffix: ".html"
