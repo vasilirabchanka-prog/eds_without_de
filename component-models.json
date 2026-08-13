@@ -253,14 +253,14 @@
           {
             "component": "text",
             "label": "Tooltip Text",
-            "name": "tooltipText",
+            "name": "tooltip",
             "valueType": "string",
             "required": true
           },
           {
             "component": "richtext",
             "label": "Data tracking",
-            "name": "dataTracking",
+            "name": "data",
             "value": "",
             "valueType": "string",
             "required": false
