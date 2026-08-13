@@ -220,8 +220,8 @@
     "fields": [
       {
         "component": "container",
-        "label": "This is container",
-        "name": "container1",
+        "label": "Add here link (-s)",
+        "name": "container",
         "valueType": "string",
         "multi": true,
         "validation": {
