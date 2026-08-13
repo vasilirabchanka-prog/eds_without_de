@@ -231,27 +231,39 @@
         "fields": [
           {
             "component": "text",
-            "label": "Link Text",
-            "name": "linkText",
-            "valueType": "string"
-          },
-          {
-            "component": "text",
             "label": "Link",
             "name": "link",
-            "valueType": "string"
-          },
-          {
-            "component": "reference",
-            "label": "Icon",
-            "name": "Icon",
-            "valueType": "string"
+            "valueType": "string",
+            "required": true
           },
           {
             "component": "text",
-            "label": "Alternative Text",
-            "name": "iconAlternativeText",
-            "valueType": "string"
+            "label": "Title",
+            "name": "title",
+            "valueType": "string",
+            "required": true
+          },
+          {
+            "component": "boolean",
+            "label": "New tab",
+            "name": "newTab",
+            "valueType": "boolean",
+            "required": true
+          },
+          {
+            "component": "text",
+            "label": "Tooltip Text",
+            "name": "tooltipText",
+            "valueType": "string",
+            "required": true
+          },
+          {
+            "component": "richtext",
+            "label": "Data tracking",
+            "name": "dataTracking",
+            "value": "",
+            "valueType": "string",
+            "required": false
           }
         ]
       }
